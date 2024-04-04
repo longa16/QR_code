@@ -1,3 +1,3 @@
 # 3DCT_Project
-comming soon
+comming soon.
 docker test
